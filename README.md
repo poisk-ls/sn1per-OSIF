@@ -1,5 +1,5 @@
 
-# sn1per-OSIF
+### sn1per-OSIF
 ```
                   _     _
                 o' \.=./ `o
@@ -11,7 +11,7 @@
 ```
 
 
-# Command Installation
+### Command Installation
 
 - pkg update upgrade
 - pkg install git 
@@ -22,6 +22,8 @@
 - python2 osif.py
 
 **Tips:**
-* if you are confused how to use it, please type 'help' to display the help menu
+* If you are confused how to use it, please type **[help]** to display the **[help menu]**
 * [Warn] please turn off your VPN before using this program !!!
-* [Tips] do not overuse this program !!!
+* [Tips] **do not overuse this program..!!**
+* **Don't use you're main account**..
+* **Do it on your own risk..**
