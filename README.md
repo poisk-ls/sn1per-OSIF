@@ -1,16 +1,15 @@
 
-# this project will be stopped for some time to come.
-
+# sn1per-OSIF
 ```
-                                          _     _
-                                        o' \.=./ `o
-                                           (o o)          
-                                       ooO--(_)--Ooo
+                       _     _
+                     o' \.=./ `o
+                        (o o)          
+                    ooO--(_)--Ooo
                                        
-                                          O S I F
-                            [open source information facebook]
+                       O S I F
+       [open source information facebook]
 ```
-OSIF is an accurate facebook account information gathering, all sensitive information can be easily gathered even though the target converts all of its privacy to (only me), Sensitive information about residence, date of birth, occupation, phone number and email address.
+OSIF is an accurate facebook account gathering information, all sensitive information can be easily gathered even though the target converts all of its privacy to (only me), Sensitive information about residence, date of birth, occupation, phone number and email address.
 
 
 
@@ -31,9 +30,6 @@ $ pip2 install -r requirements.txt
 ```
 $ python2 osif.py
 ```
-# [ Screenshot ]
-<img src=".images/osif.png "/>
-
 * if you are confused how to use it, please type 'help' to display the help menu
 * [Warn] please turn off your VPN before using this program !!!
 * [Tips] do not overuse this program !!!
